@@ -30,7 +30,7 @@ model <- res$model
 emptyData <- Data(doseGrid=doseGrid)
 mcmcOptions <- McmcOptions()
 set.seed(12)
-## look at the example1.R code to complete the following two lines:
+## look at the crmPack slides code to complete the following two lines:
 priorSamples <- 
 plot(  )
 ## how does it look? ok?
